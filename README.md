@@ -1,3 +1,5 @@
+TEST
+
 # Schéma Base Adresse Locale
 
 ## Bases Adresses Locales
